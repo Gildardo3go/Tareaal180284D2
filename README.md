@@ -47,7 +47,7 @@
 		<h1>Gildardo Guzman Ortiz</h1>
 		<h1>Seguridad en computo</h1>
 
-		<a href="Proteccion_contraseñas.html.html">
+		<a href="Proteccion_contraseñas.html">
 		<button>Ir a la tarea</button></a>
 	</div>
 </body>
